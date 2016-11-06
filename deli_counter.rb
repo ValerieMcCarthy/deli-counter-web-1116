@@ -1,4 +1,4 @@
-# Write your code here.
+# Simple code inserted here.
 
 deli_line = []
 
